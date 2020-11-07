@@ -1,0 +1,8 @@
+.main-header{
+  display: flex;
+}
+
+.header-info{
+  width:80%;
+  text-align: right;
+}
